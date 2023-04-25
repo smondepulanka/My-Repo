@@ -88,6 +88,9 @@ pipeline {
 ![image](https://user-images.githubusercontent.com/130491596/234239821-ce61291d-6b58-49df-b61d-e0253723edb1.png)
 
 
+![image](https://user-images.githubusercontent.com/130491596/234240409-6e478c4c-697e-47e3-9fd4-1040e886220d.png)
+
+
 
 
     
