@@ -76,7 +76,20 @@ pipeline {
 } 
     
     
-    
+
+![image](https://user-images.githubusercontent.com/130491596/234239066-c0e986e6-3299-4fbe-b598-0a03bee50639.png)
+
+
+![image](https://user-images.githubusercontent.com/130491596/234239337-5e6560e2-68ff-47af-96a6-78f011db0a09.png)
+
+![image](https://user-images.githubusercontent.com/130491596/234239484-08e03e06-5963-4d9b-ab48-ee37265e741b.png)
+
+
+![image](https://user-images.githubusercontent.com/130491596/234239821-ce61291d-6b58-49df-b61d-e0253723edb1.png)
+
+
+
+
     
     
     
